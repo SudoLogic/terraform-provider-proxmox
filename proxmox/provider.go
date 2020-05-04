@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"sync"
 
-	pxapi "github.com/Telmate/proxmox-api-go/proxmox"
+	pxapi "github.com/SudoLogic/proxmox-api-go/proxmox"
 	"github.com/hashicorp/terraform/helper/schema"
 )
 
