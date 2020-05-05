@@ -8,4 +8,4 @@ require (
 	github.com/hashicorp/terraform v0.12.10
 )
 
-replace github.com/SudoLogic/terraform-provider-proxmox@v0.0.0-20200505080823-94fea86ab5f4 => ~/Workspaces/terraform-provider-proxmox
+replace github.com/SudoLogic/terraform-provider-proxmox@v0.0.0-20200505080823-94fea86ab5f4 => ../terraform-provider-proxmox
