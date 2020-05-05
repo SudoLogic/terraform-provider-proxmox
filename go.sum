@@ -17,6 +17,10 @@ github.com/ChrisTrenkamp/goxpath v0.0.0-20170922090931-c385f95c6022 h1:y8Gs8CzNf
 github.com/ChrisTrenkamp/goxpath v0.0.0-20170922090931-c385f95c6022/go.mod h1:nuWgzSkT5PnyOd+272uUmV0dnAnAn42Mk7PiQC5VzN4=
 github.com/SudoLogic/proxmox-api-go v0.0.0-20200504005718-de704490d138 h1:iA+SAAZE0qofX72bRQ6hVe/dAhPHl8JBE9vZSKBWKGg=
 github.com/SudoLogic/proxmox-api-go v0.0.0-20200504005718-de704490d138/go.mod h1:h3a4/T4aTflGX1ySirE9UO8EkdcdLzkLT2/mnLXQoPY=
+github.com/SudoLogic/proxmox-api-go v0.0.0-20200504022851-d14903fb054f h1:B78DZBIeQWC37/dsTJo+NxztXuV36Gpmm3HENGKrRZQ=
+github.com/SudoLogic/proxmox-api-go v0.0.0-20200504022851-d14903fb054f/go.mod h1:h3a4/T4aTflGX1ySirE9UO8EkdcdLzkLT2/mnLXQoPY=
+github.com/SudoLogic/terraform-provider-proxmox v0.0.0-20200504040326-5824ca22de97 h1:/8gRHCfj9x5RlfHorpwRdN2JfhUzpoKK+TxWEnVg4Y0=
+github.com/SudoLogic/terraform-provider-proxmox v0.0.0-20200504040326-5824ca22de97/go.mod h1:IiyvJE3pFzkoT6p4tZ96HKO7zYZJl9KInuUkv0GvPvk=
 github.com/Telmate/proxmox-api-go v0.0.0-20191217000250-7338ae30b9b0 h1:nESOoKXlWq5ontBddqvZVUsEtFusVUYMUUtdwRZ1QwI=
 github.com/Telmate/proxmox-api-go v0.0.0-20191217000250-7338ae30b9b0/go.mod h1:OGWyIMJ87/k/GCz8CGiWB2HOXsOVDM6Lpe/nFPkC4IQ=
 github.com/Telmate/proxmox-api-go v0.0.0-20200225212220-a29566462efd h1:Moss3RtB00h4omKW+leNGIGIfmHcnkZPTJ5d0A0fY14=
